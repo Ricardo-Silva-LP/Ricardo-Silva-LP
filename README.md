@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Ricardo Silva 😁
 
  <div>
-   <a href="https://github.com/Ricardo-Silva-LP">
+   <a href="https://github.com/Ricardo-Silva-LP/Ricardo-Silva-LP">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Silva_LP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Silva_LP&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
